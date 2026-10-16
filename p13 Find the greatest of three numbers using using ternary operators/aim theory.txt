@@ -1,0 +1,5 @@
+Practical 13: Greatest of Three Numbers Using Ternary Operator
+Aim: To write a Java program to find the greatest of three numbers using the ternary operator.
+Theory: The ternary operator ?: is a conditional operator that evaluates a condition and returns one of two 
+expressions. It provides a compact alternative to an if-else statement. Nested ternary operators can be used 
+to compare three numbers and determine the greatest.

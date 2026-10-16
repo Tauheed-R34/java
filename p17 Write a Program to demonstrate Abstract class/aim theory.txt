@@ -1,0 +1,5 @@
+Practical 17: Abstract Class
+Aim: To write a Java program to demonstrate the use of an abstract class.
+Theory: An abstract class is declared using the abstract keyword and cannot be instantiated directly. 
+It can contain abstract methods without a method body and concrete methods with a method body. 
+A subclass provides the implementation of the abstract methods before its objects can be created.

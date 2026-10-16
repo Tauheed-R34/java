@@ -1,0 +1,6 @@
+Java Practical Examination — Aim and Theory
+Practical 1: Conditional Branching Using if, if-else, and switch Statements
+Aim: To write a Java program to demonstrate conditional branching using if, if-else, and switch statements.
+Theory: Conditional statements are used to make decisions in a Java program. The if statement executes code 
+when a condition is true, while if-else selects between two alternatives. 
+The switch statement selects one case from multiple choices based on the given value.

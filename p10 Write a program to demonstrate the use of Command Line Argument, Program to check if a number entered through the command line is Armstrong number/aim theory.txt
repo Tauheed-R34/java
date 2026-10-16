@@ -1,0 +1,6 @@
+Practical 10: Command-Line Arguments and Armstrong Number
+Aim: To write a Java program to demonstrate command-line arguments and check whether a given number 
+is an Armstrong number.
+Theory: Command-line arguments are values passed to a Java program when it is executed. They are 
+stored as strings in the String[] args array and can be converted into other data types. An Armstrong number 
+is a number equal to the sum of its digits, each raised to the power of the total number of digits.

@@ -1,0 +1,6 @@
+Practical 9: Static Variables and Static Methods
+Aim: To write a Java program to demonstrate static variables and static methods and understand 
+their difference from instance members.
+Theory: A static variable belongs to the class and is shared by all objects of that class. 
+A static method can be called using the class name without creating an object. 
+Instance variables, on the other hand, maintain separate values for each object.

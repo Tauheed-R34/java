@@ -1,0 +1,5 @@
+Practical 12: First N Prime Numbers
+Aim: To write a Java program to display the first N prime numbers, where N is entered by the user.
+Theory: A prime number is a natural number greater than 1 that has exactly two positive factors: 1 and itself. 
+The program checks whether each number is divisible by any number other than 1 and itself. A loop is used 
+to find and display the first N prime numbers.

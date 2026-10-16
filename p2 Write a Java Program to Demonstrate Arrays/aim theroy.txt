@@ -1,0 +1,5 @@
+Practical 2: Arrays in Java
+Aim: To write a Java program to demonstrate arrays by accepting, displaying, and calculating the sum of five numbers.
+Theory: An array is a collection of elements of the same data type stored under a single variable name. Each 
+element is accessed using an index, starting from zero. Arrays are useful for storing and processing 
+multiple values efficiently using loops.

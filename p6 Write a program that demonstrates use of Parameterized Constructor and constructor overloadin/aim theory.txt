@@ -1,0 +1,5 @@
+Practical 6: Parameterized Constructor and Constructor Overloading
+Aim: To write a Java program to demonstrate parameterized constructors and constructor overloading.
+Theory: A parameterized constructor accepts arguments to initialize an object's data members. Constructor 
+overloading means defining multiple constructors in the same class with different parameter lists. It 
+allows objects to be initialized in different ways.

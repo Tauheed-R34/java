@@ -1,0 +1,5 @@
+Practical 5: Default Constructor
+Aim: To write a Java program to demonstrate the use of a default constructor.
+Theory: A constructor is a special member of a class that initializes an object 
+when it is created. A default constructor has no parameters. In this program, a user-defined 
+no-argument constructor initializes the object's variables with predefined values.

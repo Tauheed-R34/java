@@ -1,0 +1,58 @@
+Java Practical Examination — Aim and Theory
+Practical 1: Conditional Branching Using if, if-else, and switch Statements
+Aim: To write a Java program to demonstrate conditional branching using if, if-else, and switch statements.
+Theory: Conditional statements are used to make decisions in a Java program. The if statement executes code when a condition is true, while if-else selects between two alternatives. The switch statement selects one case from multiple choices based on the given value.
+Practical 2: Arrays in Java
+Aim: To write a Java program to demonstrate arrays by accepting, displaying, and calculating the sum of five numbers.
+Theory: An array is a collection of elements of the same data type stored under a single variable name. Each element is accessed using an index, starting from zero. Arrays are useful for storing and processing multiple values efficiently using loops.
+Practical 3: Basic Operations on Vector
+Aim: To write a Java program to demonstrate basic Vector operations such as adding, accessing, displaying, and removing elements.
+Theory: A Vector is a dynamic collection in Java that can grow or shrink as elements are added or removed. It provides methods such as add(), get(), and remove() to perform basic operations. A Vector can store objects and is available in the java.util package.
+Practical 4: Right-Angled Triangle Star Pattern Using Loops
+Aim: To write a Java program to print a right-angled triangle star pattern using for, while, and do-while loops.
+Theory: Loops are used to execute a block of statements repeatedly. The for loop is generally used when the number of iterations is known, the while loop checks the condition before execution, and the do-while loop executes at least once. Nested loops are used to print the triangle pattern.
+Practical 5: Default Constructor
+Aim: To write a Java program to demonstrate the use of a default constructor.
+Theory: A constructor is a special member of a class that initializes an object when it is created. A default constructor has no parameters. In this program, a user-defined no-argument constructor initializes the object's variables with predefined values.
+Practical 6: Parameterized Constructor and Constructor Overloading
+Aim: To write a Java program to demonstrate parameterized constructors and constructor overloading.
+Theory: A parameterized constructor accepts arguments to initialize an object's data members. Constructor overloading means defining multiple constructors in the same class with different parameter lists. It allows objects to be initialized in different ways.
+Practical 7: Copy Constructor
+Aim: To write a Java program to demonstrate the use of a copy constructor.
+Theory: A copy constructor is a constructor that initializes a new object using the values of an existing object of the same class. Java does not provide a special built-in copy constructor, so it is created by the programmer. It is useful for copying an object's data members.
+Practical 8: Method Overloading and Data Type Overloading
+Aim: To write a Java program to calculate the areas of a circle, rectangle, and triangle using method overloading.
+Theory: Method overloading allows multiple methods in the same class to have the same name but different parameter lists. The methods may differ in the number or data types of parameters. The compiler selects the appropriate method based on the arguments passed during the method call.
+Practical 9: Static Variables and Static Methods
+Aim: To write a Java program to demonstrate static variables and static methods and understand their difference from instance members.
+Theory: A static variable belongs to the class and is shared by all objects of that class. A static method can be called using the class name without creating an object. Instance variables, on the other hand, maintain separate values for each object.
+Practical 10: Command-Line Arguments and Armstrong Number
+Aim: To write a Java program to demonstrate command-line arguments and check whether a given number is an Armstrong number.
+Theory: Command-line arguments are values passed to a Java program when it is executed. They are stored as strings in the String[] args array and can be converted into other data types. An Armstrong number is a number equal to the sum of its digits, each raised to the power of the total number of digits.
+Practical 11: Fibonacci Series
+Aim: To write a Java program to display the first N elements of the Fibonacci series, where N is entered by the user.
+Theory: The Fibonacci series is a sequence in which each term after the first two is the sum of the previous two terms. The series generally begins with 0 and 1. A loop is used to calculate and display the required number of terms.
+Practical 12: First N Prime Numbers
+Aim: To write a Java program to display the first N prime numbers, where N is entered by the user.
+Theory: A prime number is a natural number greater than 1 that has exactly two positive factors: 1 and itself. The program checks whether each number is divisible by any number other than 1 and itself. A loop is used to find and display the first N prime numbers.
+Practical 13: Greatest of Three Numbers Using Ternary Operator
+Aim: To write a Java program to find the greatest of three numbers using the ternary operator.
+Theory: The ternary operator ?: is a conditional operator that evaluates a condition and returns one of two expressions. It provides a compact alternative to an if-else statement. Nested ternary operators can be used to compare three numbers and determine the greatest.
+Practical 14: Single Inheritance
+Aim: To write a Java program to demonstrate single inheritance.
+Theory: Inheritance is an object-oriented programming feature in which one class acquires the properties and methods of another class. In single inheritance, one child class inherits from one parent class using the extends keyword. It promotes code reusability and reduces duplication.
+Practical 15: Multilevel Inheritance
+Aim: To write a Java program to demonstrate multilevel inheritance.
+Theory: Multilevel inheritance occurs when a class inherits from another derived class, forming a chain of inheritance. For example, class B inherits from class A, and class C inherits from class B. The last class can access the inherited methods of the preceding classes, subject to access restrictions.
+Practical 16: Hierarchical Inheritance
+Aim: To write a Java program to demonstrate hierarchical inheritance.
+Theory: Hierarchical inheritance occurs when two or more child classes inherit from the same parent class. Each child class can use the accessible methods and properties of the parent class while also defining its own methods. It helps share common functionality among multiple classes.
+Practical 17: Abstract Class
+Aim: To write a Java program to demonstrate the use of an abstract class.
+Theory: An abstract class is declared using the abstract keyword and cannot be instantiated directly. It can contain abstract methods without a method body and concrete methods with a method body. A subclass provides the implementation of the abstract methods before its objects can be created.
+Practical 18: Interface
+Aim: To write a Java program to demonstrate the use of an interface.
+Theory: An interface in Java defines a contract that implementing classes must follow. It is declared using the interface keyword, and a class implements it using the implements keyword. The implementing class provides the definitions of the required abstract methods, supporting abstraction and multiple inheritance of type.
+Practical 19: Exception Handling Using try, catch, finally, throw, and throws
+Aim: To write a Java program to demonstrate exception handling using try, catch, finally, throw, and throws.
+Theory: Exception handling is used to manage runtime errors and maintain the normal flow of a program. The try block contains code that may generate an exception, while catch handles the exception. The finally block executes whether an exception occurs or not, under normal control flow. The throw keyword explicitly throws an exception, whereas throws declares exceptions that a method may pass to its caller.

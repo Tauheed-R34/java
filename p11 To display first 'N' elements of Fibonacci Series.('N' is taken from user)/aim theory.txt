@@ -1,0 +1,5 @@
+Practical 11: Fibonacci Series
+Aim: To write a Java program to display the first N elements of the Fibonacci series, where N is entered by the user.
+Theory: The Fibonacci series is a sequence in which each term after the first two is the sum of the previous two 
+terms. The series generally begins with 0 and 1. A loop is used to calculate and display the required number 
+of terms.

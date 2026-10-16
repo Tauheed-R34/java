@@ -1,0 +1,5 @@
+Practical 8: Method Overloading and Data Type Overloading
+Aim: To write a Java program to calculate the areas of a circle, rectangle, and triangle using method overloading.
+Theory: Method overloading allows multiple methods in the same class to have the same name but different 
+parameter lists. The methods may differ in the number or data types of parameters. The compiler selects 
+the appropriate method based on the arguments passed during the method call.

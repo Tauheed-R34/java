@@ -1,0 +1,5 @@
+Practical 16: Hierarchical Inheritance
+Aim: To write a Java program to demonstrate hierarchical inheritance.
+Theory: Hierarchical inheritance occurs when two or more child classes inherit from the same parent class. 
+Each child class can use the accessible methods and properties of the parent class while also defining 
+its own methods. It helps share common functionality among multiple classes.

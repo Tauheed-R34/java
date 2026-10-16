@@ -1,0 +1,5 @@
+Practical 18: Interface
+Aim: To write a Java program to demonstrate the use of an interface.
+Theory: An interface in Java defines a contract that implementing classes must follow. It is declared using 
+the interface keyword, and a class implements it using the implements keyword. The implementing class provides 
+the definitions of the required abstract methods, supporting abstraction and multiple inheritance of type.

@@ -1,0 +1,5 @@
+Practical 15: Multilevel Inheritance
+Aim: To write a Java program to demonstrate multilevel inheritance.
+Theory: Multilevel inheritance occurs when a class inherits from another derived class, forming a 
+chain of inheritance. For example, class B inherits from class A, and class C inherits from class B. 
+The last class can access the inherited methods of the preceding classes, subject to access restrictions.

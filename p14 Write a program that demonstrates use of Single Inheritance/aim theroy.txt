@@ -1,0 +1,5 @@
+Practical 14: Single Inheritance
+Aim: To write a Java program to demonstrate single inheritance.
+Theory: Inheritance is an object-oriented programming feature in which one class acquires the properties 
+and methods of another class. In single inheritance, one child class inherits from one parent class 
+using the extends keyword. It promotes code reusability and reduces duplication.

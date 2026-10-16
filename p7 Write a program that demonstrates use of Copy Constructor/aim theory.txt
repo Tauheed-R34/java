@@ -1,0 +1,5 @@
+Practical 7: Copy Constructor
+Aim: To write a Java program to demonstrate the use of a copy constructor.
+Theory: A copy constructor is a constructor that initializes a new object using the values of an 
+existing object of the same class. Java does not provide a special built-in copy constructor, so it is 
+created by the programmer. It is useful for copying an object's data members.

@@ -1,0 +1,6 @@
+Practical 19: Exception Handling Using try, catch, finally, throw, and throws
+Aim: To write a Java program to demonstrate exception handling using try, catch, finally, throw, and throws.
+Theory: Exception handling is used to manage runtime errors and maintain the normal flow of a program. 
+The try block contains code that may generate an exception, while catch handles the exception. 
+The finally block executes whether an exception occurs or not, under normal control flow. The throw 
+keyword explicitly throws an exception, whereas throws declares exceptions that a method may pass to its caller.

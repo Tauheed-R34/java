@@ -1,0 +1,6 @@
+Practical 3: Basic Operations on Vector
+Aim: To write a Java program to demonstrate basic Vector operations such as adding, accessing, displaying, 
+and removing elements.
+Theory: A Vector is a dynamic collection in Java that can grow or shrink as elements are added or removed. 
+It provides methods such as add(), get(), and remove() to perform basic operations. A Vector can store objects 
+and is available in the java.util package.
