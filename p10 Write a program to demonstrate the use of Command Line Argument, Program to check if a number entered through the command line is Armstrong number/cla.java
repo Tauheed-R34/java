@@ -1,5 +1,5 @@
 
-class Practical10 {
+class cla {
     public static void main(String[] args) {
         if (args.length == 0) {
             System.out.println("Enter number as command line argument");

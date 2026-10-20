@@ -1,28 +1,23 @@
+class are {
 
-class Practical8 {
-
-    // Circle with integer radius
     int area(int r) {
         return (int) (3.14 * r * r);
     }
 
-    // Circle with double radius
     double area(double r) {
         return 3.14 * r * r;
     }
 
-    // Rectangle
     int area(int l, int b) {
         return l * b;
     }
 
-    // Triangle
     double area(double b, double h) {
         return 0.5 * b * h;
     }
 
     public static void main(String[] args) {
-        Practical8 obj = new Practical8();
+        are obj = new are();
 
         System.out.println("Area of circle (int): "
                            + obj.area(5));

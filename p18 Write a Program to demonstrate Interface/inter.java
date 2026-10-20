@@ -1,4 +1,3 @@
-
 interface Printable {
     void print();
 }
@@ -9,7 +8,7 @@ class Student implements Printable {
     }
 }
 
-class Practical18 {
+class inter {
     public static void main(String[] args) {
         Student s = new Student();
         s.print();

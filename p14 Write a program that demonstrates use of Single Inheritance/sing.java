@@ -11,7 +11,7 @@ class Child extends Parent {
     }
 }
 
-class Practical14 {
+class sing {
     public static void main(String[] args) {
         Child obj = new Child();
 

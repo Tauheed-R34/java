@@ -17,7 +17,7 @@ class Cat extends Animal {
     }
 }
 
-class Practical16 {
+class hier {
     public static void main(String[] args) {
         Dog d = new Dog();
         Cat c = new Cat();

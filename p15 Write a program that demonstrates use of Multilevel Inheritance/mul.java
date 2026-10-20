@@ -17,7 +17,7 @@ class C extends B {
     }
 }
 
-class Practical15 {
+class mul {
     public static void main(String[] args) {
         C obj = new C();
 

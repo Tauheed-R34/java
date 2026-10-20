@@ -1,15 +1,13 @@
-
-class Practical7 {
+class copcon {
     int id;
     String name;
 
-    Practical7(int i, String n) {
+    copcon(int i, String n) {
         id = i;
         name = n;
     }
 
-    // Copy constructor
-    Practical7(Practical7 s) {
+    copcon(copcon s) {
         id = s.id;
         name = s.name;
     }
@@ -20,9 +18,9 @@ class Practical7 {
     }
 
     public static void main(String[] args) {
-        Practical7 s1 = new Practical7(101, "Ali");
+        copcon s1 = new copcon(101, "Tauheed");
 
-        Practical7 s2 = new Practical7(s1);
+        copcon s2 = new copcon(s1);
 
         System.out.println("Original object:");
         s1.display();

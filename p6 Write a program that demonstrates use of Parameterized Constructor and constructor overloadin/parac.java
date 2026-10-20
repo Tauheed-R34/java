@@ -1,22 +1,18 @@
-
-class Practical6 {
+class parac {
     int id;
     String name;
 
-    // Default constructor
-    Practical6() {
+    parac() {
         id = 0;
         name = "Unknown";
     }
 
-    // Parameterized constructor
-    Practical6(int i, String n) {
+    parac(int i, String n) {
         id = i;
         name = n;
     }
 
-    // Overloaded constructor
-    Practical6(int i) {
+    parac(int i) {
         id = i;
         name = "Student";
     }
@@ -26,9 +22,9 @@ class Practical6 {
     }
 
     public static void main(String[] args) {
-        Practical6 s1 = new Practical6();
-        Practical6 s2 = new Practical6(101, "Ali");
-        Practical6 s3 = new Practical6(102);
+        parac s1 = new parac();
+        parac s2 = new parac(101, "Tauheed");
+        parac s3 = new parac(102);
 
         s1.display();
         s2.display();

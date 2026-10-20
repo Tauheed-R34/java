@@ -1,5 +1,6 @@
+import java.util.Scanner;
 
-class Practical19 {
+class exc {
 
     static void checkAge(int age) throws Exception {
         if (age < 18) {
@@ -10,14 +11,18 @@ class Practical19 {
     }
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
         try {
-            int age = 16;
+            System.out.print("Enter your age: ");
+            int age = sc.nextInt();
 
             checkAge(age);
         } catch (Exception e) {
             System.out.println("Exception: " + e.getMessage());
         } finally {
             System.out.println("Finally block executed");
+            sc.close();
         }
     }
 }

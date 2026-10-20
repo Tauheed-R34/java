@@ -1,12 +1,11 @@
-
-class Practical9 {
+class stat {
     int rollNo;
     String name;
 
     static String college = "LTCE";
     static int count = 0;
 
-    Practical9(int r, String n) {
+    stat(int r, String n) {
         rollNo = r;
         name = n;
         count++;
@@ -21,12 +20,12 @@ class Practical9 {
     }
 
     public static void main(String[] args) {
-        Practical9 s1 = new Practical9(1, "Ali");
-        Practical9 s2 = new Practical9(2, "Tauheed");
+        stat s1 = new stat(1, "Ali");
+        stat s2 = new stat(2, "Tauheed");
 
         s1.display();
         s2.display();
 
-        Practical9.displayCount();
+        stat.displayCount();
     }
 }

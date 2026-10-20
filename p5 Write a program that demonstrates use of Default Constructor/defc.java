@@ -1,9 +1,9 @@
 
-class Practical5 {
+class defc {
     int id;
     String name;
 
-    Practical5() {
+    defc() {
         id = 69;
         name = "Tauheed";
     }
@@ -14,7 +14,7 @@ class Practical5 {
     }
 
     public static void main(String[] args) {
-        Practical5 obj = new Practical5();
+        defc obj = new defc();
         obj.display();
     }
 }

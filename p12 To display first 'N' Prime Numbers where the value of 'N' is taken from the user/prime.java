@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Practical12 {
+class prime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,5 +1,5 @@
 
-class Practical4 {
+class right {
     public static void main(String[] args) {
         int i, j;
 
